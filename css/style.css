@@ -1,0 +1,52 @@
+.navbar-inner{
+	background-color: #E08B44;
+}
+#popup-login{
+	color: #FFFFFF;
+}
+#popup-login .page-content{
+	background-color: #E08B44;
+}
+
+#popup-login #btn-login{
+	background-color: #FFFFFF;
+	color: #000000;
+	font-weight: bold;
+}
+#popup-login #btn-registro{
+	background-color: #5065A5;
+	color: #FFFFFF;
+	font-weight: bold;
+}
+#popup-login .img-responsive{
+	width: 130px;
+}
+
+.app{
+	background-color: #E08B44;
+}
+.carstarcolor .material-icons{
+	color: #FFDB00;
+	text-align: left;
+}
+
+
+.fondo{
+	background:#E08B44;
+	color:#FFFFFF;
+}
+
+.fondo .btn-regresar{
+	background-color: #E08B44;
+}
+#pago{
+	background-color: #E08B44;
+}
+
+#imgcontratar{
+	padding-left: 80px;
+}
+
+#contenidopag{
+	padding-top: 200px;
+}
